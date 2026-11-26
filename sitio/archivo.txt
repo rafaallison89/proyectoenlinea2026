@@ -1,0 +1,10 @@
+1, sobrero de Ala Ancha,300,otros
+2, Botas de Charro,200,calzado
+3, vestido,450,Damas
+4, Playera Roja,300,Caballeros
+5, Lentes Ava,7500,Damas
+6, Falda Catalina Perea,1999,Damas
+7, Bolsa Luis Victor,9999,Damas
+8, Perfume Esmeralda Tirsof,5000,Damas
+9, Blusa Donato Ferro,899,Damas
+10, Botas Milton Fajer,7000,Damas
